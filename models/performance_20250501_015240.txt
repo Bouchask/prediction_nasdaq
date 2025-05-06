@@ -1,0 +1,15 @@
+Rapport de classification:
+              precision    recall  f1-score   support
+
+        Sell       0.98      0.99      0.99       203
+        Hold       0.00      0.00      0.00         0
+         Buy       0.99      0.98      0.98       170
+
+    accuracy                           0.98       373
+   macro avg       0.66      0.66      0.66       373
+weighted avg       0.98      0.98      0.98       373
+
+Matrice de confusion:
+[[201   0   2]
+ [  0   0   0]
+ [  4   0 166]]
